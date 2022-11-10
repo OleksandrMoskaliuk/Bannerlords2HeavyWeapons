@@ -4,7 +4,7 @@
                       item_type="OneHandedWeapon"
                       modifier_group="sword"
                       item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4"
-                      default_item_holster_position_offset="0,0,-0.10"
+                      default_item_holster_position_offset="0,0,-0.6"
                       piece_type_to_scale_holster_with="Handle"
                       always_show_holster_with_weapon="true">
         <PieceDatas>

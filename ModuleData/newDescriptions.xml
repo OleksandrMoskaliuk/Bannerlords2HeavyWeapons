@@ -4,6 +4,7 @@
         <WeaponFlags>
             <WeaponFlag value="MeleeWeapon"/>
             <WeaponFlag value="BonusAgainstShield"/>
+            <WeaponFlag value="WideGrip"/>
         </WeaponFlags>
         <AvailablePieces>
             <AvailablePiece id="sturgian_grip_17"/>
