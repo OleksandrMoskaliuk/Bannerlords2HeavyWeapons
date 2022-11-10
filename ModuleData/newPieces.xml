@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
-    <CraftingPiece is_default="true" id="spear_handle_8_er0"
+  <CraftingPiece is_default="true" id="spear_handle_8_er0"
                  name="{=aQa3tp6Q}Decorated Long Pine Shaft"
                  tier="5"
                  piece_type="Handle"
@@ -23,7 +23,7 @@
                  length="7"
                  weight="0.1">
     <BuildData next_piece_offset="0" />
-        <StatContributions handling_bonus="0"
+    <StatContributions handling_bonus="0"
                        swing_damage_bonus="12"
                        swing_speed_bonus="1"
                        thrust_damage_bonus="2"
@@ -44,9 +44,9 @@
                  culture="Culture.sturgia"
                  length="40"
                  weight="0.6">
-	<BuildData next_piece_offset="25" 
+    <BuildData next_piece_offset="25"
                previous_piece_offset="17"/>
-        <StatContributions handling_bonus="3"
+    <StatContributions handling_bonus="3"
                        swing_damage_bonus="34"
                        swing_speed_bonus="3"
                        thrust_damage_bonus="0"
@@ -68,7 +68,7 @@
                  length="11.3"
                  weight="0.1">
     <BuildData next_piece_offset="0" />
-        <StatContributions handling_bonus="10"
+    <StatContributions handling_bonus="10"
                        swing_damage_bonus="2"
                        swing_speed_bonus="0"
                        thrust_damage_bonus="15"
@@ -209,7 +209,7 @@
             type="ItemFlags" />
     </Flags>
   </CraftingPiece>
-    <CraftingPiece is_default="true" id="cleaver_blade_3_er0"
+  <CraftingPiece is_default="true" id="cleaver_blade_3_er0"
                  name="{=G8Fb2RPa}Pointed Falchion Blade"
                  tier="4"
                  piece_type="Blade"
@@ -965,7 +965,7 @@
     </BladeData>
     <Flags>
       <Flag name="Civilian"
-            type="ItemFlags" /> 
+            type="ItemFlags" />
       <Flag name="CanBePickedUpFromCorpse"
             type="ItemFlags" />
     </Flags>
@@ -993,7 +993,7 @@
     <Flags>
       <Flag name="BonusAgainstShield" />
       <Flag name="Civilian"
-            type="ItemFlags" />  
+            type="ItemFlags" />
       <Flag name="CanBePickedUpFromCorpse"
             type="ItemFlags" />
     </Flags>
@@ -1009,9 +1009,9 @@
                  mesh="axe_craft_34_head"
                  length="20"
                  weight="0.3">
-	<BuildData next_piece_offset="9" 
+    <BuildData next_piece_offset="9"
                previous_piece_offset="9"/>
-        <StatContributions handling_bonus="6"
+    <StatContributions handling_bonus="6"
                        swing_damage_bonus="17"
                        swing_speed_bonus="6"
                        thrust_damage_bonus="0"
@@ -1031,9 +1031,9 @@
                  mesh="axe_craft_25_head"
                  length="25"
                  weight="0.3">
-	<BuildData next_piece_offset="9" 
+    <BuildData next_piece_offset="9"
                previous_piece_offset="9"/>
-        <StatContributions handling_bonus="4"
+    <StatContributions handling_bonus="4"
                        swing_damage_bonus="10"
                        swing_speed_bonus="15"
                        thrust_damage_bonus="0"
@@ -1053,9 +1053,9 @@
                  mesh="axe_craft_23_head"
                  length="25"
                  weight="0.3">
-	<BuildData next_piece_offset="9" 
+    <BuildData next_piece_offset="9"
                previous_piece_offset="11"/>
-        <StatContributions handling_bonus="3"
+    <StatContributions handling_bonus="3"
                        swing_damage_bonus="11"
                        swing_speed_bonus="12"
                        thrust_damage_bonus="0"
@@ -1075,9 +1075,9 @@
                  mesh="axe_craft_26_head"
                  length="20"
                  weight="0.3">
-	<BuildData next_piece_offset="6" 
+    <BuildData next_piece_offset="6"
                previous_piece_offset="7"/>
-        <StatContributions handling_bonus="5"
+    <StatContributions handling_bonus="5"
                        swing_damage_bonus="20"
                        swing_speed_bonus="2"
                        thrust_damage_bonus="0"
@@ -1097,9 +1097,9 @@
                  mesh="axe_craft_18_head"
                  length="10"
                  weight="0.3">
-	<BuildData next_piece_offset="6" 
+    <BuildData next_piece_offset="6"
                previous_piece_offset="3"/>
-        <StatContributions handling_bonus="4"
+    <StatContributions handling_bonus="4"
                        swing_damage_bonus="9"
                        swing_speed_bonus="18"
                        thrust_damage_bonus="0"
@@ -1119,7 +1119,7 @@
                  mesh="axe_craft_11_head"
                  length="10"
                  weight="0.3">
-	<BuildData next_piece_offset="6" 
+    <BuildData next_piece_offset="6"
                previous_piece_offset="7"/>
     <StatContributions handling_bonus="3"
                        swing_damage_bonus="15"
@@ -1152,7 +1152,7 @@
     <Flags>
       <Flag name="BonusAgainstShield" />
       <Flag name="Civilian"
-            type="ItemFlags" />  
+            type="ItemFlags" />
       <Flag name="CanBePickedUpFromCorpse"
             type="ItemFlags" />
     </Flags>
@@ -1180,7 +1180,7 @@
     <Flags>
       <Flag name="BonusAgainstShield" />
       <Flag name="Civilian"
-            type="ItemFlags" />  
+            type="ItemFlags" />
       <Flag name="CanBePickedUpFromCorpse"
             type="ItemFlags" />
     </Flags>
@@ -1196,9 +1196,9 @@
                  mesh="spear_blade_26"
                  length="29.8"
                  weight="0.2">
-	<BuildData next_piece_offset="13.0" 
+    <BuildData next_piece_offset="13.0"
                previous_piece_offset="3"/>
- 	<StatContributions handling_bonus="0"
+    <StatContributions handling_bonus="0"
                        swing_damage_bonus="0"
                        swing_speed_bonus="0"
                        thrust_damage_bonus="4"
@@ -1218,9 +1218,9 @@
                  mesh="spear_blade_25"
                  length="42.5"
                  weight="0.3">
-	<BuildData next_piece_offset="26.0" 
+    <BuildData next_piece_offset="26.0"
                previous_piece_offset="3"/>
- 	<StatContributions handling_bonus="0"
+    <StatContributions handling_bonus="0"
                        swing_damage_bonus="5"
                        swing_speed_bonus="0"
                        thrust_damage_bonus="5"

@@ -3,8 +3,12 @@
     <WeaponDescription id="OneHandedSword_er0" weapon_class="OneHandedSword" item_usage_features="onehanded:block:rshield:swing:thrust">
         <WeaponFlags>
             <WeaponFlag value="MeleeWeapon"/>
+            <WeaponFlag value="BonusAgainstShield"/>
         </WeaponFlags>
         <AvailablePieces>
+            <AvailablePiece id="sturgian_grip_17"/>
+            <AvailablePiece id="axe_craft_8_head"/>
+
             <AvailablePiece id="khuzait_blade_2_er0"/>
             <AvailablePiece id="aserai_blade_2_er0"/>
             <AvailablePiece id="aserai_pommel_8"/>
@@ -157,6 +161,9 @@
             <WeaponFlag value="TwoHandIdleOnMount"/>
         </WeaponFlags>
         <AvailablePieces>
+            <AvailablePiece id="sturgian_grip_17"/>
+            <AvailablePiece id="axe_craft_8_head"/>
+
             <AvailablePiece id="khuzait_blade_2_er0"/>
             <AvailablePiece id="aserai_blade_2_er0"/>
             <AvailablePiece id="aserai_pommel_8"/>
