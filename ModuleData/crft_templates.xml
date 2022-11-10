@@ -18,74 +18,27 @@
                  build_order="-1" />
     </PieceDatas>
     <WeaponDescriptions>
-		<WeaponDescription id="OneHandedPolearm_er0" />
-		<WeaponDescription id="OneHandedSword_er0" />
-		<WeaponDescription id="TwoHandedAxe_er0" />
-		<WeaponDescription id="Javelin_er0" />
+        <WeaponDescription id="OneHandedSword_er0" />
+        <WeaponDescription id="TwoHandedAxe_er0" />
 	</WeaponDescriptions>
-    <StatsData weapon_description="OneHandedPolearm_er0">
-      <StatData stat_type="Weight"
-                max_value="7.0" />
-      <StatData stat_type="WeaponReach"
-                max_value="300" />
-      <StatData stat_type="ThrustSpeed"
-                max_value="200" />
-      <StatData stat_type="SwingSpeed"
-                max_value="200" />
-      <StatData stat_type="ThrustDamage"
-                max_value="500" />
-      <StatData stat_type="SwingDamage"
-                max_value="500" />
-		<StatData stat_type="Handling"
-				  max_value="200" />
-	</StatsData>
-	<StatsData weapon_description="OneHandedSword_er0">
-		<StatData stat_type="Weight"
-				  max_value="7.0" />
-		<StatData stat_type="WeaponReach"
-				  max_value="300" />
-		<StatData stat_type="ThrustSpeed"
-				  max_value="200" />
-		<StatData stat_type="SwingSpeed"
-				  max_value="200" />
-		<StatData stat_type="ThrustDamage"
-                max_value="500" />
-      <StatData stat_type="SwingDamage"
-                max_value="500" />
-      <StatData stat_type="Handling"
-                max_value="200" />
-    </StatsData>
-    <StatsData weapon_description="TwoHandedAxe_er0">
-      <StatData stat_type="Weight"
-                max_value="7.0" />
-      <StatData stat_type="WeaponReach"
-                max_value="300" />
-      <StatData stat_type="ThrustSpeed"
-                max_value="200" />
-      <StatData stat_type="SwingSpeed"
-                max_value="200" />
-      <StatData stat_type="ThrustDamage"
-                max_value="500" />
-		<StatData stat_type="SwingDamage"
-				  max_value="500" />
-		<StatData stat_type="Handling"
-				  max_value="200" />
-	</StatsData>
 
-	<StatsData weapon_description="Javelin_er0">
-		<StatData stat_type="Weight"
-				  max_value="7.0" />
-		<StatData stat_type="WeaponReach"
-				  max_value="300" />
-      <StatData stat_type="MissileDamage"
-                max_value="500" />
-      <StatData stat_type="MissileSpeed"
-                max_value="200" />
-      <StatData stat_type="Accuracy"
-                max_value="100" />
-      <StatData stat_type="StackAmount"
-                max_value="5" />
-    </StatsData>
+        <StatsData>
+            <StatData stat_type="Weight"
+                      max_value="7.0" />
+            <StatData stat_type="WeaponReach"
+                      max_value="300" />
+            <StatData stat_type="ThrustSpeed"
+                      max_value="200" />
+            <StatData stat_type="SwingSpeed"
+                      max_value="200" />
+            <StatData stat_type="ThrustDamage"
+                      max_value="500" />
+            <StatData stat_type="SwingDamage"
+                      max_value="500" />
+            <StatData stat_type="Handling"
+                      max_value="200" />
+            <!--<StatData stat_type="FollowUp" max_value="200" />-->
+        </StatsData>
 	
       <!--<StatData stat_type="FollowUp" max_value="200" />-->
     <UsablePieces>
