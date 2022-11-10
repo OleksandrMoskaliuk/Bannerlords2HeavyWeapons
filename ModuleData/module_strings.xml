@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<strings>
+		<string id="str_crafting_template.super_sword0" text="{=uni_weapon}Weapon"/>
+		<string id="str_crafting_template.polearm_er0" text="{=uni_polearm_er}polearm_er"/>
+    	<string id="str_weapon_usage.Javelin_er0" text="{=javelin_er}Javelin" />
+	  	<string id="str_weapon_usage.OneHandedPolearm_er0" text="{=polearm_er}1H polearm" />
+		<string id="str_weapon_usage.OneHandedSword_er0" text="{=sword_er}1H sword"/>
+		<string id="str_weapon_usage.TwoHandedAxe_er0" text="{=axe2h_er}2H axe"/>
+	</strings>

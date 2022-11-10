@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Русский"/>
+	</tags>
+	<strings>
+		<string id="uni_weapon" text="{.MI}Оружие"/>
+		<string id="polearm_er" text="{.MI}Копьё"/>
+		<string id="javelin_er" text="{.MI}Метательное"/>
+		<string id="sword_er" text="{.MI}Меч"/>
+		<string id="axe2h_er" text="{.MI}Двуручник"/>
+		<string id="name_flax_guard_er" text="Гарда"/>
+		<string id="name_axe_guard_er" text="Гарда"/>
+		<string id="name_pike_guard_er" text="Гарда"/>
+		<string id="name_axe_guard1_er" text="Гарда"/>
+		<string id="name_axe_guard2_er" text="Гарда"/>
+		<string id="name_axe_guard3_er" text="Гарда"/>
+		<string id="name_axe_guard4_er" text="Гарда"/>
+		<string id="name_axe_guard5_er" text="Гарда"/>
+		<string id="name_axe_guard6_er" text="Гарда"/>
+	</strings>
+</base>
