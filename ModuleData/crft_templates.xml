@@ -276,32 +276,50 @@
 
         <!--<StatData stat_type="FollowUp" max_value="200" />-->
         <UsablePieces>
-            <UsablePiece piece_id="axe_craft_1_head" />
-            <UsablePiece piece_id="axe_craft_3_head" />
-            <UsablePiece piece_id="axe_craft_5_head" />
-            <UsablePiece piece_id="axe_craft_6_head" />
-            <UsablePiece piece_id="axe_craft_7_head" />
-            <UsablePiece piece_id="axe_craft_7_head_blunt" />
-            <UsablePiece piece_id="axe_craft_14_head" />
-            <UsablePiece piece_id="axe_craft_14_head_blunt" />
-            <UsablePiece piece_id="axe_craft_15_head" />
-            <UsablePiece piece_id="axe_craft_16_head" />
-            <UsablePiece piece_id="axe_craft_17_head" />
-            <UsablePiece piece_id="axe_craft_38_head" />
-            <UsablePiece piece_id="axe_craft_22_head" />
-            <UsablePiece piece_id="axe_craft_34_head" />
-            <UsablePiece piece_id="axe_craft_1_handle" />
-            <UsablePiece piece_id="axe_craft_4_handle" />
-            <UsablePiece piece_id="axe_craft_6_handle" />
-            <UsablePiece piece_id="axe_craft_7_handle" />
-            <UsablePiece piece_id="axe_craft_8_handle" />
-            <UsablePiece piece_id="axe_craft_9_handle" />
-            <UsablePiece piece_id="axe_craft_10_handle" />
-            <UsablePiece piece_id="axe_craft_14_handle" />
-            <UsablePiece piece_id="axe_craft_29_handle" />
-            <UsablePiece piece_id="axe_craft_30_handle" />
-            <UsablePiece piece_id="axe_craft_31_handle" />
-            <UsablePiece piece_id="axe_craft_32_handle" />
+
+            <UsablePiece piece_id="axe_craft_2_head" />
+            <UsablePiece piece_id="axe_craft_8_head" />
+            <UsablePiece piece_id="axe_craft_9_head" />
+            <UsablePiece piece_id="axe_craft_11_head" />
+            <UsablePiece piece_id="axe_craft_12_head" />
+            <UsablePiece piece_id="axe_craft_18_head" />
+            <UsablePiece piece_id="axe_craft_19_head" />
+            <UsablePiece piece_id="axe_craft_20_head" />
+            <UsablePiece piece_id="axe_craft_20_head_blunt" />
+            <UsablePiece piece_id="axe_craft_21_head" />
+            <UsablePiece piece_id="axe_craft_23_head" />
+            <UsablePiece piece_id="axe_craft_24_head" />
+            <UsablePiece piece_id="axe_craft_25_head" />
+            <UsablePiece piece_id="axe_craft_26_head" />
+            <UsablePiece piece_id="axe_craft_27_head" />
+            <UsablePiece piece_id="axe_craft_28_head" />
+            <UsablePiece piece_id="axe_craft_29_head" />
+            <UsablePiece piece_id="axe_craft_30_head" />
+            <UsablePiece piece_id="axe_craft_30_head_blunt" />
+            <UsablePiece piece_id="axe_craft_32_head" />
+            <UsablePiece piece_id="axe_craft_32_head_blunt" />
+            <UsablePiece piece_id="axe_craft_33_head" />
+            <UsablePiece piece_id="axe_craft_35_head" />
+            <UsablePiece piece_id="axe_craft_36_head" />
+            <UsablePiece piece_id="axe_craft_37_head" />
+            <UsablePiece piece_id="axe_craft_2_handle" />
+            <UsablePiece piece_id="axe_craft_3_handle" />
+            <UsablePiece piece_id="axe_craft_5_handle" />
+            <UsablePiece piece_id="axe_craft_13_handle" />
+            <UsablePiece piece_id="axe_craft_15_handle" />
+            <UsablePiece piece_id="axe_craft_16_handle" />
+            <UsablePiece piece_id="axe_craft_17_handle" />
+            <UsablePiece piece_id="axe_craft_18_handle" />
+            <UsablePiece piece_id="axe_craft_19_handle" />
+            <UsablePiece piece_id="axe_craft_20_handle" />
+            <UsablePiece piece_id="axe_craft_21_handle" />
+            <UsablePiece piece_id="axe_craft_22_handle" />
+            <UsablePiece piece_id="axe_craft_23_handle" />
+            <UsablePiece piece_id="axe_craft_24_handle" />
+            <UsablePiece piece_id="axe_craft_25_handle" />
+            <UsablePiece piece_id="axe_craft_26_handle" />
+            <UsablePiece piece_id="axe_craft_27_handle" />
+            <UsablePiece piece_id="sickle_blade_1" />
             <UsablePiece piece_id="default_polearm_pommel" />
             <UsablePiece piece_id="empire_pommel_1"/>
             <UsablePiece piece_id="empire_pommel_2"/>
@@ -371,6 +389,84 @@
             <UsablePiece piece_id="spear_pommel_10" />
             <UsablePiece piece_id="spear_pommel_11" />
             <UsablePiece piece_id="spear_pommel_12" />
+            <UsablePiece piece_id="axe_craft_1_head" />
+            <UsablePiece piece_id="axe_craft_3_head" />
+            <UsablePiece piece_id="axe_craft_5_head" />
+            <UsablePiece piece_id="axe_craft_6_head" />
+            <UsablePiece piece_id="axe_craft_7_head" />
+            <UsablePiece piece_id="axe_craft_7_head_blunt" />
+            <UsablePiece piece_id="axe_craft_14_head" />
+            <UsablePiece piece_id="axe_craft_14_head_blunt" />
+            <UsablePiece piece_id="axe_craft_15_head" />
+            <UsablePiece piece_id="axe_craft_16_head" />
+            <UsablePiece piece_id="axe_craft_17_head" />
+            <UsablePiece piece_id="axe_craft_38_head" />
+            <UsablePiece piece_id="axe_craft_22_head" />
+            <UsablePiece piece_id="axe_craft_34_head" />
+            <UsablePiece piece_id="axe_craft_1_handle" />
+            <UsablePiece piece_id="axe_craft_4_handle" />
+            <UsablePiece piece_id="axe_craft_6_handle" />
+            <UsablePiece piece_id="axe_craft_7_handle" />
+            <UsablePiece piece_id="axe_craft_8_handle" />
+            <UsablePiece piece_id="axe_craft_9_handle" />
+            <UsablePiece piece_id="axe_craft_10_handle" />
+            <UsablePiece piece_id="axe_craft_14_handle" />
+            <UsablePiece piece_id="axe_craft_29_handle" />
+            <UsablePiece piece_id="axe_craft_30_handle" />
+            <UsablePiece piece_id="axe_craft_31_handle" />
+            <UsablePiece piece_id="axe_craft_32_handle" />
+
+            <UsablePiece piece_id="mp_vlandia_polearm_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_polearm_handle"   mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_short_2axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_short_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_strong_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_strong_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_halberd_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_halberd_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_long_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_long_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_woodcutters_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_woodcutters_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandian_billhook_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandian_billhook_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_bastard_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_bastard_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_battle_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_battle_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_test_2haxe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_test_2haxe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_heavy_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_noble_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_heavy_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_cavalry_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_cavalry_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_hatchet_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_hatchet_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_heavy_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_heavy_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandian_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandian_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturiga_woodsplitter_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturiga_woodsplitter_axe_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_sichel_blade"  mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_sichel_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_test_axe_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_test_axe_handle" mp_piece="true" />
         </UsablePieces>
     </CraftingTemplate>
 </CraftingTemplates>
