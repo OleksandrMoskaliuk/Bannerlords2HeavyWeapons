@@ -13,6 +13,6 @@
 <!--Sword-->
 	<string id="str_crafting_template.HeavySword" text="Heavy Sword"/>
 	<string id="str_weapon_usage.OneHandedHeavySword" text="One Handed"/>
-<!--	<string id="str_weapon_usage.TwoHandedHeavySword" text="Two Handed"/>-->
+	<string id="str_weapon_usage.TwoHandedHeavySword" text="Two Handed"/>
 
 </strings>

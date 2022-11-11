@@ -485,7 +485,7 @@
         </PieceDatas>
         <WeaponDescriptions>
             <WeaponDescription id="OneHandedHeavySword"/>
-
+            <WeaponDescription id="TwoHandedHeavySword"/>
         </WeaponDescriptions>
         <StatsData>
             <StatData stat_type="Weight"
