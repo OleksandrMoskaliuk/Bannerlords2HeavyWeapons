@@ -1,13 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-	<strings>
-		<string id="str_crafting_template.super_sword0" text="{=uni_weapon}Weapon"/>
-		<string id="str_crafting_template.polearm_er0" text="{=uni_polearm_er}Polearm_er"/>
-    	<string id="str_weapon_usage.Javelin_er0" text="{=javelin_er}Javelin" />
-	  	<string id="str_weapon_usage.OneHandedPolearm_er0" text="{=polearm_er}1H Solearm" />
-		<string id="str_weapon_usage.OneHandedSword_er0" text="{=sword_er}1H Sword"/>
-		<string id="str_weapon_usage.TwoHandedAxe_er0" text="{=axe2h_er}2H Axe"/>
-<!--	-->
-	    <string id="str_crafting_template.HeavyOneHandedAxe" text="Heavy Axe"/>
-	    <string id="str_weapon_usage.OneHandedHeavyAxe" text="One Handed"/>
-	    <string id="str_weapon_usage.TwoHandedHeavyAxe" text="Two Handed"/>
-	</strings>
+<strings>
+	<string id="str_crafting_template.super_sword0" text="{=uni_weapon}Weapon"/>
+	<string id="str_crafting_template.polearm_er0" text="{=uni_polearm_er}Polearm_er"/>
+	<string id="str_weapon_usage.Javelin_er0" text="{=javelin_er}Javelin" />
+	<string id="str_weapon_usage.OneHandedPolearm_er0" text="{=polearm_er}1H Solearm" />
+	<string id="str_weapon_usage.OneHandedSword_er0" text="{=sword_er}1H Sword"/>
+	<string id="str_weapon_usage.TwoHandedAxe_er0" text="{=axe2h_er}2H Axe"/>
+<!--Axe-->
+	<string id="str_crafting_template.HeavyAxe" text="Heavy Axe"/>
+	<string id="str_weapon_usage.OneHandedHeavyAxe" text="One Handed"/>
+	<string id="str_weapon_usage.TwoHandedHeavyAxe" text="Two Handed"/>
+<!--Sword-->
+	<string id="str_crafting_template.HeavySword" text="Heavy Sword"/>
+	<string id="str_weapon_usage.OneHandedHeavySword" text="One Handed"/>
+<!--	<string id="str_weapon_usage.TwoHandedHeavySword" text="Two Handed"/>-->
+
+</strings>
