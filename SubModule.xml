@@ -10,16 +10,7 @@
 		<DependedModule Id="CustomBattle" DependentVersion="e1.9.0"/>
 		<DependedModule Id ="StoryMode" DependentVersion="e1.9.0"/>
 	</DependedModules>
-	<Xmls>                     
-		<XmlNode>                
-			<XmlName id="CraftingPieces" path="newPieces"/>
-			<IncludedGameTypes>
-				<GameType value = "Campaign"/>
-				<GameType value = "CampaignStoryMode"/>
-				<GameType value = "CustomGame"/>
-				<GameType value = "EditorGame"/>
-			</IncludedGameTypes>
-		</XmlNode>     
+	<Xmls>
 		<XmlNode>
 			<XmlName id="WeaponDescriptions" path="newDescriptions"/>
 			<IncludedGameTypes>
