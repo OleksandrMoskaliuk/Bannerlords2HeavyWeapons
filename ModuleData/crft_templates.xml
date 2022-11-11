@@ -889,6 +889,7 @@
         </PieceDatas>
         <WeaponDescriptions>
             <WeaponDescription id="OneHandedCHeavyMace"/>
+            <WeaponDescription id="TwoHandedHCHeavyMace"/>
         </WeaponDescriptions>
         <StatsData>
             <StatData stat_type="Weight"
@@ -1061,8 +1062,6 @@
             <UsablePiece piece_id="spear_pommel_13" />
             <UsablePiece piece_id="mace_head_30" />
             <UsablePiece piece_id="blacksmith_hammer_handle_1" />
-
-
             <UsablePiece piece_id="mp_sturgia_2hhammer_head" mp_piece="true" />
             <UsablePiece piece_id="mp_battania_2hhammer_head" mp_piece="true" />
             <UsablePiece piece_id="mp_aserai_maul_head" mp_piece="true" />
@@ -1073,33 +1072,33 @@
             <UsablePiece piece_id="mp_vlandian_mace_head" mp_piece="true" />
             <UsablePiece piece_id="mp_vlandia_mace_handle" mp_piece="true" />
             <UsablePiece piece_id="mp_vlandian_cavalry_mace_head" mp_piece="true" />
-            <UsablePiece piece_id="mp_vlandia_cavalry_mace_handle"    mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_cavalry_mace_head"   mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_cavalry_mace_handle"       mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_cavalry_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_cavalry_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_cavalry_mace_handle" mp_piece="true" />
             <UsablePiece piece_id="mp_vlandian_military_pick_head" mp_piece="true" />
-            <UsablePiece piece_id="mp_vlandia_military_pick_handle"  mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_mace_head"  mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_mace_handle"  mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_heavy_mace_head"   mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_heavy_mace_handle"     mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_cavalry_mace_head"      mp_piece="true" />
-            <UsablePiece piece_id="mp_empire_cavalry_mace_handle"   mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_cavalry_mace_head"  mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_cavalry_mace_handle"   mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_mace_head"   mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_mace_handle"   mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_heavy_mace_head"    mp_piece="true" />
-            <UsablePiece piece_id="mp_khuzait_heavy_mace_handle"   mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_mace_head"     mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_mace_handle"    mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_heavy_mace_head"     mp_piece="true" />
-            <UsablePiece piece_id="mp_aserai_heavy_mace_handle"   mp_piece="true" />
-            <UsablePiece piece_id="mp_sturgia_hammer_head"  mp_piece="true" />
+            <UsablePiece piece_id="mp_vlandia_military_pick_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_heavy_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_heavy_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_cavalry_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_empire_cavalry_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_cavalry_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_cavalry_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_heavy_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_khuzait_heavy_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_heavy_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_aserai_heavy_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_hammer_head" mp_piece="true" />
             <UsablePiece piece_id="mp_sturgia_hammer_handle"  mp_piece="true" />
-            <UsablePiece piece_id="mp_sturgia_mace_head"    mp_piece="true" />
-            <UsablePiece piece_id="mp_sturgia_mace_handle"  mp_piece="true" />
-            <UsablePiece piece_id="mp_battania_mace_head"   mp_piece="true" />
-            <UsablePiece piece_id="mp_battania_mace_handle"  mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_sturgia_mace_handle" mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_mace_head" mp_piece="true" />
+            <UsablePiece piece_id="mp_battania_mace_handle" mp_piece="true" />
             <UsablePiece piece_id="mp_test_mace_head" mp_piece="true" />
             <UsablePiece piece_id="mp_test_mace_handle"  mp_piece="true" />
         </UsablePieces>
