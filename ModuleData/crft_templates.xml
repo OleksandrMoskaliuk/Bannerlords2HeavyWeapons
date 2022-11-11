@@ -254,8 +254,8 @@
         </PieceDatas>
         <WeaponDescriptions>
             <WeaponDescription id="OneHandedHeavyAxe"/>
+            <WeaponDescription id="TwoHandedHeavyAxe"/>
         </WeaponDescriptions>
-
         <StatsData>
             <StatData stat_type="Weight"
                       max_value="7.0" />
@@ -273,10 +273,7 @@
                       max_value="200" />
             <!--<StatData stat_type="FollowUp" max_value="200" />-->
         </StatsData>
-
-        <!--<StatData stat_type="FollowUp" max_value="200" />-->
         <UsablePieces>
-
             <UsablePiece piece_id="axe_craft_2_head" />
             <UsablePiece piece_id="axe_craft_8_head" />
             <UsablePiece piece_id="axe_craft_9_head" />
@@ -415,7 +412,6 @@
             <UsablePiece piece_id="axe_craft_30_handle" />
             <UsablePiece piece_id="axe_craft_31_handle" />
             <UsablePiece piece_id="axe_craft_32_handle" />
-
             <UsablePiece piece_id="mp_vlandia_polearm_head" mp_piece="true" />
             <UsablePiece piece_id="mp_vlandia_polearm_handle"   mp_piece="true" />
             <UsablePiece piece_id="mp_empire_2haxe_head"  mp_piece="true" />

@@ -7,6 +7,7 @@
 		<string id="str_weapon_usage.OneHandedSword_er0" text="{=sword_er}1H Sword"/>
 		<string id="str_weapon_usage.TwoHandedAxe_er0" text="{=axe2h_er}2H Axe"/>
 <!--	-->
-	    <string id="str_crafting_template.HeavyOneHandedAxe" text="One Handed Heavy Axe"/>
+	    <string id="str_crafting_template.HeavyOneHandedAxe" text="Heavy Axe"/>
 	    <string id="str_weapon_usage.OneHandedHeavyAxe" text="One Handed"/>
+	    <string id="str_weapon_usage.TwoHandedHeavyAxe" text="Two Handed"/>
 	</strings>
