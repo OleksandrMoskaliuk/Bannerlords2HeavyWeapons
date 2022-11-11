@@ -237,5 +237,141 @@
             <UsablePiece piece_id="mp_test_pike_handle"/>
         </UsablePieces>
     </CraftingTemplate>
+
+    <CraftingTemplate id="HeavyOneHandedAxe"
+                      item_type="OneHandedWeapon"
+                      modifier_group="axe"
+                      item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4"
+                      default_item_holster_position_offset="0,0,-0.65"
+                      use_weapon_as_holster_mesh="true">
+        <PieceDatas>
+            <PieceData piece_type="Handle"
+                       build_order="0" />
+            <PieceData piece_type="Blade"
+                       build_order="1" />
+            <PieceData piece_type="Pommel"
+                       build_order="-1" />
+        </PieceDatas>
+        <WeaponDescriptions>
+            <WeaponDescription id="OneHandedHeavyAxe"/>
+        </WeaponDescriptions>
+
+        <StatsData>
+            <StatData stat_type="Weight"
+                      max_value="7.0" />
+            <StatData stat_type="WeaponReach"
+                      max_value="300" />
+            <StatData stat_type="ThrustSpeed"
+                      max_value="200" />
+            <StatData stat_type="SwingSpeed"
+                      max_value="200" />
+            <StatData stat_type="ThrustDamage"
+                      max_value="500" />
+            <StatData stat_type="SwingDamage"
+                      max_value="500" />
+            <StatData stat_type="Handling"
+                      max_value="200" />
+            <!--<StatData stat_type="FollowUp" max_value="200" />-->
+        </StatsData>
+
+        <!--<StatData stat_type="FollowUp" max_value="200" />-->
+        <UsablePieces>
+            <UsablePiece piece_id="axe_craft_1_head" />
+            <UsablePiece piece_id="axe_craft_3_head" />
+            <UsablePiece piece_id="axe_craft_5_head" />
+            <UsablePiece piece_id="axe_craft_6_head" />
+            <UsablePiece piece_id="axe_craft_7_head" />
+            <UsablePiece piece_id="axe_craft_7_head_blunt" />
+            <UsablePiece piece_id="axe_craft_14_head" />
+            <UsablePiece piece_id="axe_craft_14_head_blunt" />
+            <UsablePiece piece_id="axe_craft_15_head" />
+            <UsablePiece piece_id="axe_craft_16_head" />
+            <UsablePiece piece_id="axe_craft_17_head" />
+            <UsablePiece piece_id="axe_craft_38_head" />
+            <UsablePiece piece_id="axe_craft_22_head" />
+            <UsablePiece piece_id="axe_craft_34_head" />
+            <UsablePiece piece_id="axe_craft_1_handle" />
+            <UsablePiece piece_id="axe_craft_4_handle" />
+            <UsablePiece piece_id="axe_craft_6_handle" />
+            <UsablePiece piece_id="axe_craft_7_handle" />
+            <UsablePiece piece_id="axe_craft_8_handle" />
+            <UsablePiece piece_id="axe_craft_9_handle" />
+            <UsablePiece piece_id="axe_craft_10_handle" />
+            <UsablePiece piece_id="axe_craft_14_handle" />
+            <UsablePiece piece_id="axe_craft_29_handle" />
+            <UsablePiece piece_id="axe_craft_30_handle" />
+            <UsablePiece piece_id="axe_craft_31_handle" />
+            <UsablePiece piece_id="axe_craft_32_handle" />
+            <UsablePiece piece_id="default_polearm_pommel" />
+            <UsablePiece piece_id="empire_pommel_1"/>
+            <UsablePiece piece_id="empire_pommel_2"/>
+            <UsablePiece piece_id="empire_pommel_3"/>
+            <UsablePiece piece_id="empire_pommel_4"/>
+            <UsablePiece piece_id="empire_pommel_5"/>
+            <UsablePiece piece_id="empire_pommel_6"/>
+            <UsablePiece piece_id="empire_noble_pommel_1"/>
+            <UsablePiece piece_id="empire_noble_pommel_2"/>
+            <UsablePiece piece_id="empire_noble_pommel_3"/>
+            <UsablePiece piece_id="empire_noble_pommel_4"/>
+            <UsablePiece piece_id="sturgian_pommel_2"/>
+            <UsablePiece piece_id="khuzait_pommel_1"/>
+            <UsablePiece piece_id="khuzait_pommel_2"/>
+            <UsablePiece piece_id="khuzait_pommel_5"/>
+            <UsablePiece piece_id="khuzait_pommel_6"/>
+            <UsablePiece piece_id="khuzait_pommel_7"/>
+            <UsablePiece piece_id="khuzait_noble_pommel_1"/>
+            <UsablePiece piece_id="khuzait_noble_pommel_2"/>
+            <UsablePiece piece_id="khuzait_noble_pommel_3"/>
+            <UsablePiece piece_id="vlandian_pommel_1"/>
+            <UsablePiece piece_id="vlandian_pommel_2"/>
+            <UsablePiece piece_id="vlandian_pommel_3"/>
+            <UsablePiece piece_id="vlandian_pommel_4"/>
+            <UsablePiece piece_id="vlandian_pommel_5"/>
+            <UsablePiece piece_id="vlandian_pommel_6"/>
+            <UsablePiece piece_id="vlandian_pommel_7"/>
+            <UsablePiece piece_id="vlandian_pommel_8"/>
+            <UsablePiece piece_id="vlandian_pommel_9"/>
+            <UsablePiece piece_id="vlandian_pommel_10"/>
+            <UsablePiece piece_id="vlandian_noble_pommel_1"/>
+            <UsablePiece piece_id="cleaver_pommel_1"/>
+            <UsablePiece piece_id="cleaver_pommel_2"/>
+            <UsablePiece piece_id="cleaver_pommel_3"/>
+            <UsablePiece piece_id="cleaver_pommel_4"/>
+            <UsablePiece piece_id="aserai_pommel_1"/>
+            <UsablePiece piece_id="aserai_pommel_2"/>
+            <UsablePiece piece_id="aserai_pommel_3"/>
+            <UsablePiece piece_id="aserai_pommel_4"/>
+            <UsablePiece piece_id="aserai_pommel_5"/>
+            <UsablePiece piece_id="aserai_pommel_8"/>
+            <UsablePiece piece_id="aserai_pommel_9"/>
+            <UsablePiece piece_id="aserai_noble_pommel_1"/>
+            <UsablePiece piece_id="aserai_noble_pommel_2"/>
+            <UsablePiece piece_id="aserai_noble_pommel_3"/>
+            <UsablePiece piece_id="aserai_noble_pommel_4"/>
+            <UsablePiece piece_id="battania_pommel_1"/>
+            <UsablePiece piece_id="battania_pommel_2"/>
+            <UsablePiece piece_id="battania_pommel_3"/>
+            <UsablePiece piece_id="battania_pommel_4"/>
+            <UsablePiece piece_id="battania_pommel_5"/>
+            <UsablePiece piece_id="battania_pommel_6"/>
+            <UsablePiece piece_id="battania_pommel_7"/>
+            <UsablePiece piece_id="battania_pommel_8"/>
+            <UsablePiece piece_id="battania_pommel_9"/>
+            <UsablePiece piece_id="battania_noble_pommel_1"/>
+            <UsablePiece piece_id="wood_pommel_1"/>
+            <UsablePiece piece_id="spear_pommel_1" />
+            <UsablePiece piece_id="spear_pommel_2" />
+            <UsablePiece piece_id="spear_pommel_3" />
+            <UsablePiece piece_id="spear_pommel_4" />
+            <UsablePiece piece_id="spear_pommel_5" />
+            <UsablePiece piece_id="spear_pommel_6" />
+            <UsablePiece piece_id="spear_pommel_7" />
+            <UsablePiece piece_id="spear_pommel_8" />
+            <UsablePiece piece_id="spear_pommel_9" />
+            <UsablePiece piece_id="spear_pommel_10" />
+            <UsablePiece piece_id="spear_pommel_11" />
+            <UsablePiece piece_id="spear_pommel_12" />
+        </UsablePieces>
+    </CraftingTemplate>
 </CraftingTemplates>
 

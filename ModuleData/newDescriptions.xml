@@ -3,8 +3,6 @@
     <WeaponDescription id="OneHandedSword_er0" weapon_class="OneHandedSword" item_usage_features="onehanded:block:rshield:swing:thrust">
         <WeaponFlags>
             <WeaponFlag value="MeleeWeapon"/>
-            <WeaponFlag value="BonusAgainstShield"/>
-            <WeaponFlag value="WideGrip"/>
         </WeaponFlags>
         <AvailablePieces>
             <AvailablePiece id="sturgian_grip_17"/>
@@ -405,17 +403,6 @@
             <AvailablePiece id="mp_test_pike_handle"/>
         </AvailablePieces>
     </WeaponDescription>
-    <!-- short -->
-    <!--<AvailablePiece id="axe_craft_10_handle"/>-->
-    <!--<AvailablePiece id="axe_craft_8_handle"/>-->
-    <!--<AvailablePiece id="mace_handle_15"/>-->
-    <!--<AvailablePiece id="axe_craft_29_handle"/>-->
-    <!--<AvailablePiece id="spear_handle_1"/>-->
-    <!-- long -->
-    <!-- <AvailablePiece id="axe_craft_1_handle"/>-->
-    <!-- <AvailablePiece id="axe_craft_4_handle"/>-->
-    <!-- <AvailablePiece id="spear_handle_4"/>-->
-    <!-- <AvailablePiece id="spear_handle_8_er0"/>-->
     <WeaponDescription id="OneHandedPolearm_er0"
                        weapon_class="OneHandedPolearm"
                        item_usage_features="onehanded_polearm:block:long:rshield:thrust">
@@ -724,6 +711,111 @@
             <AvailablePiece id="axe_craft_4_handle"/>
             <AvailablePiece id="spear_handle_4"/>
             <AvailablePiece id="spear_handle_8_er0"/>
+        </AvailablePieces>
+    </WeaponDescription>
+    <WeaponDescription id="OneHandedHeavyAxe" weapon_class="OneHandedAxe" item_usage_features="onehanded:shield:axe">
+        <WeaponFlags>
+            <WeaponFlag value="MeleeWeapon"/>
+            <WeaponFlag value="WideGrip"/>
+            <WeaponFlag value="BonusAgainstShield"/>
+            <WeaponFlag value="WideGrip"/>
+        </WeaponFlags>
+        <AvailablePieces>
+            <AvailablePiece id="axe_craft_1_head" />
+            <AvailablePiece id="axe_craft_3_head" />
+            <AvailablePiece id="axe_craft_5_head" />
+            <AvailablePiece id="axe_craft_6_head" />
+            <AvailablePiece id="axe_craft_7_head" />
+            <AvailablePiece id="axe_craft_7_head_blunt" />
+            <AvailablePiece id="axe_craft_14_head" />
+            <AvailablePiece id="axe_craft_14_head_blunt" />
+            <AvailablePiece id="axe_craft_15_head" />
+            <AvailablePiece id="axe_craft_16_head" />
+            <AvailablePiece id="axe_craft_17_head" />
+            <AvailablePiece id="axe_craft_38_head" />
+            <AvailablePiece id="axe_craft_22_head" />
+            <AvailablePiece id="axe_craft_34_head" />
+            <AvailablePiece id="axe_craft_1_handle" />
+            <AvailablePiece id="axe_craft_4_handle" />
+            <AvailablePiece id="axe_craft_6_handle" />
+            <AvailablePiece id="axe_craft_7_handle" />
+            <AvailablePiece id="axe_craft_8_handle" />
+            <AvailablePiece id="axe_craft_9_handle" />
+            <AvailablePiece id="axe_craft_10_handle" />
+            <AvailablePiece id="axe_craft_14_handle" />
+            <AvailablePiece id="axe_craft_29_handle" />
+            <AvailablePiece id="axe_craft_30_handle" />
+            <AvailablePiece id="axe_craft_31_handle" />
+            <AvailablePiece id="axe_craft_32_handle" />
+            <AvailablePiece id="default_polearm_pommel" />
+            <AvailablePiece id="empire_pommel_1"/>
+            <AvailablePiece id="empire_pommel_2"/>
+            <AvailablePiece id="empire_pommel_3"/>
+            <AvailablePiece id="empire_pommel_4"/>
+            <AvailablePiece id="empire_pommel_5"/>
+            <AvailablePiece id="empire_pommel_6"/>
+            <AvailablePiece id="empire_noble_pommel_1"/>
+            <AvailablePiece id="empire_noble_pommel_2"/>
+            <AvailablePiece id="empire_noble_pommel_3"/>
+            <AvailablePiece id="empire_noble_pommel_4"/>
+            <AvailablePiece id="sturgian_pommel_2"/>
+            <AvailablePiece id="khuzait_pommel_1"/>
+            <AvailablePiece id="khuzait_pommel_2"/>
+            <AvailablePiece id="khuzait_pommel_5"/>
+            <AvailablePiece id="khuzait_pommel_6"/>
+            <AvailablePiece id="khuzait_pommel_7"/>
+            <AvailablePiece id="khuzait_noble_pommel_1"/>
+            <AvailablePiece id="khuzait_noble_pommel_2"/>
+            <AvailablePiece id="khuzait_noble_pommel_3"/>
+            <AvailablePiece id="vlandian_pommel_1"/>
+            <AvailablePiece id="vlandian_pommel_2"/>
+            <AvailablePiece id="vlandian_pommel_3"/>
+            <AvailablePiece id="vlandian_pommel_4"/>
+            <AvailablePiece id="vlandian_pommel_5"/>
+            <AvailablePiece id="vlandian_pommel_6"/>
+            <AvailablePiece id="vlandian_pommel_7"/>
+            <AvailablePiece id="vlandian_pommel_8"/>
+            <AvailablePiece id="vlandian_pommel_9"/>
+            <AvailablePiece id="vlandian_pommel_10"/>
+            <AvailablePiece id="vlandian_noble_pommel_1"/>
+            <AvailablePiece id="cleaver_pommel_1"/>
+            <AvailablePiece id="cleaver_pommel_2"/>
+            <AvailablePiece id="cleaver_pommel_3"/>
+            <AvailablePiece id="cleaver_pommel_4"/>
+            <AvailablePiece id="aserai_pommel_1"/>
+            <AvailablePiece id="aserai_pommel_2"/>
+            <AvailablePiece id="aserai_pommel_3"/>
+            <AvailablePiece id="aserai_pommel_4"/>
+            <AvailablePiece id="aserai_pommel_5"/>
+            <AvailablePiece id="aserai_pommel_8"/>
+            <AvailablePiece id="aserai_pommel_9"/>
+            <AvailablePiece id="aserai_noble_pommel_1"/>
+            <AvailablePiece id="aserai_noble_pommel_2"/>
+            <AvailablePiece id="aserai_noble_pommel_3"/>
+            <AvailablePiece id="aserai_noble_pommel_4"/>
+            <AvailablePiece id="battania_pommel_1"/>
+            <AvailablePiece id="battania_pommel_2"/>
+            <AvailablePiece id="battania_pommel_3"/>
+            <AvailablePiece id="battania_pommel_4"/>
+            <AvailablePiece id="battania_pommel_5"/>
+            <AvailablePiece id="battania_pommel_6"/>
+            <AvailablePiece id="battania_pommel_7"/>
+            <AvailablePiece id="battania_pommel_8"/>
+            <AvailablePiece id="battania_pommel_9"/>
+            <AvailablePiece id="battania_noble_pommel_1"/>
+            <AvailablePiece id="wood_pommel_1"/>
+            <AvailablePiece id="spear_pommel_1" />
+            <AvailablePiece id="spear_pommel_2" />
+            <AvailablePiece id="spear_pommel_3" />
+            <AvailablePiece id="spear_pommel_4" />
+            <AvailablePiece id="spear_pommel_5" />
+            <AvailablePiece id="spear_pommel_6" />
+            <AvailablePiece id="spear_pommel_7" />
+            <AvailablePiece id="spear_pommel_8" />
+            <AvailablePiece id="spear_pommel_9" />
+            <AvailablePiece id="spear_pommel_10" />
+            <AvailablePiece id="spear_pommel_11" />
+            <AvailablePiece id="spear_pommel_12" />
         </AvailablePieces>
     </WeaponDescription>
 </WeaponDescriptions>
