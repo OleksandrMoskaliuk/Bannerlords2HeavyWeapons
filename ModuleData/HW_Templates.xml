@@ -636,7 +636,7 @@
     <CraftingTemplate id="CHeavy_Mace"
                       item_type="OneHandedWeapon"
                       modifier_group="mace"
-                      item_holsters="mace_right_hip:axe_right_hip_2:axe_right_hip:axe_back"
+                      item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4"
                       default_item_holster_position_offset="0,0,-0.40"
                       use_weapon_as_holster_mesh="true">
         <PieceDatas>

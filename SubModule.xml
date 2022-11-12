@@ -1,6 +1,6 @@
 <Module>
-	<Name value="Universal Weapon one projectile"/>
-	<Id value="NewCraftOP"/>
+	<Name value="HeavyWeapons"/>
+	<Id value="HeavyWeaponsCraft"/>
 	<Version value="e1.9.0"/>
 	<ModuleCategory value="Singleplayer"/>
 	<DependedModules>
@@ -12,7 +12,7 @@
 	</DependedModules>
 	<Xmls>
 		<XmlNode>
-			<XmlName id="WeaponDescriptions" path="newDescriptions"/>
+			<XmlName id="WeaponDescriptions" path="NewDescriptions"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -20,7 +20,7 @@
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>                
-			<XmlName id="CraftingTemplates" path="crft_templates"/>
+			<XmlName id="CraftingTemplates" path="HW_Templates"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
@@ -28,7 +28,7 @@
 			</IncludedGameTypes>
 		</XmlNode>   
 		<XmlNode>                
-			<XmlName id="GameText" path="module_strings"/>
+			<XmlName id="GameText" path="ModuleStrings"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
